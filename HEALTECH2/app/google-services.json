@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492242274359",
+    "firebase_url": "https://healtech-5eb73.firebaseio.com",
+    "project_id": "healtech-5eb73",
+    "storage_bucket": "healtech-5eb73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492242274359:android:08a9436a5eb9e2b54317b2",
+        "android_client_info": {
+          "package_name": "com.example.healtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492242274359-f4sqlvctq3odnoq0u7c3g2b0143jjcm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcsefwnVBFBzORtFUFmRtD87K2TbEpkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492242274359-f4sqlvctq3odnoq0u7c3g2b0143jjcm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

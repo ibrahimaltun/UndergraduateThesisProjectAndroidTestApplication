@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">HEALTECH</string>
+    <string name="app_text_name_id">HEALTECH</string>
+    <string name="zaten_hesab_m_var">Yeni bir hesaba ihtiyacım var</string>
+    <string name="login_btn">Giriş YAp</string>
+    <string name="reg_have_account">Zaten bir hesabım var</string>
+    <string name="reg_name_hint">Adınızı giriniz</string>
+    <string name="reg_email_hint">Email adresinizi giriniz</string>
+    <string name="reg_pass_hint">Şifrenizi giriniz</string>
+    <string name="reg_buton">kayıt ol</string>
+    <string name="login_mail_hint">E-mail</string>
+    <string name="login_pass_hint">Şifre</string>
+
+    <string name="deptitle">DEPRESYON TESTİ</string>
+    <string name="depsoru1">Soru 1: HİÇ OLUMLU DUYGU YAŞAMADIĞIMI FARKETTİM.</string>
+    <string name="depsoru2">Soru 2: HİÇBİR BEKLENTİMİN OLMADIĞI HİSSİNE KAPILDIM.</string>
+    <string name="depsoru3">Soru 3: BİREY OLARAK DEĞERSİZ OLDUĞUMU HİSSETTİM.</string>
+    <string name="depsoru4">Soru 4: HAYATIN DEĞERSİZ OLDUĞUNU HİSSETTİM.</string>
+    <string name="depsoru5">Soru 5: KENDİMİ PERİŞAN VE HÜZÜNLÜ HİSSETTİM.</string>
+    <string name="depsoru6">Soru 6: HİÇBİR ŞEY BENDE HEYECAN UYANDIRMIYORDU.</string>
+    <string name="depsoru7">Soru 7: BİR İŞ YAPMAK İÇİN GEREKLİ OLAN İLK ADIMI ATMAKTA ZORLANDIM.</string>
+    <string name="depradi0">0- BANA UYGUN DEĞİL</string>
+    <string name="depradi1">1- BANA BİRAZ UYGUN</string>
+    <string name="depradi2">2- BANA GENELLİKLE UYGUN</string>
+    <string name="depradi3">3- BANA TAMAMEN UYGUN</string>
+
+    <string name="sttitle">STRES TESTİ</string>
+    <string name="stsoru1">Soru 1: OLAYLARA AŞIRI TEPKİ VERMEYE MEYİLLİYİM.</string>
+    <string name="stsoru2">Soru 2: KENDİMİ GEVŞETİP SALIVERMEK ZOR GELDİ.</string>
+    <string name="stsoru3">Soru 3: SİNİRSEL ENERJİMİ ÇOK FAZLA KULLANDIĞIMI HİSSETTİM.</string>
+    <string name="stsoru4">Soru 4: ALINGAN OLDUĞUMU HİSSETTİM.</string>
+    <string name="stsoru5">Soru 5: GEVŞEYİP RAHATLAMAKTA ZORLUK ÇEKTİM.</string>
+    <string name="stsoru6">Soru 6: BENİ YAPTIĞIM İŞTEN ALIKOYAN ŞEYLERE DAYANAMIYORDUM.</string>
+    <string name="stsoru7">Soru 7: KIŞKIRTILMAKTA OLDUĞUMU HİSSETTİM.</string>
+    <string name="stgecbutonu">SONRAKİ TESTE GEÇ</string>
+
+    <string name="anktitle">ANKSİYETE TESTİ</string>
+    <string name="anksoru1">Soru 1: AĞZIMDA KURULUK OLDUĞUNU HİSETTİM.</string>
+    <string name="anksoru2">Soru 2: SOLUK ALMADA ZORLUK ÇEKTİM.</string>
+    <string name="anksoru3">Soru 3: GEÇERLİ BİR NEDEN OLMADIĞI HALDE KORKTUĞUMU HİSSETTİM.</string>
+    <string name="anksoru4">Soru 4: PANİK HALİNE YAKIN OLDUĞUMU HİSSETTİM.</string>
+    <string name="anksoru5">Soru 5: PANİKLEYİP KENDİMİ APTAL DURUMUNA DÜŞÜRECEĞİM DURUMLAR NEDENİYLE ENDİŞELENDİM.</string>
+    <string name="anksoru6">Soru 6: VÜCUDUMDA TİTREMELER OLDU.</string>
+    <string name="anksoru7">Soru 7: FİZİKSEL EGZERSİZ SÖZ KONUSU OLMADIĞI HALDE KALBİMİN HAREKETLERİNİ HİSSETTİM.</string>
+    <string name="ankgondermebutonu">TESTİ GÖNDER</string>
+
+    <string name="yildiz_arasi">***************************************************</string>
+    <string name="dep_test_gonder_buton">Depresyon testini gönder</string>
+    <string name="str_test_gonder_buton">Stres Testini Gönder</string>
+    <string name="ank_test_gonder_buton">Anksiyete Testini Gönder</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".LoginActivity">
+
+
+    <ImageView
+        android:id="@+id/app_logo_id"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        app:srcCompat="@mipmap/resimson" />
+
+    <TextView
+        android:id="@+id/app_text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_logo_id"
+        android:layout_centerHorizontal="true"
+        android:text="@string/app_text_name_id"
+        android:textSize="24sp"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/login_email"
+        android:layout_width="250dp"
+        android:textColorHint="@color/colorWhite"
+        android:layout_height="40dp"
+        android:padding="8dp"
+        android:hint="@string/login_mail_hint"
+        android:layout_below="@+id/app_text_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/edittext_backround"
+        android:inputType="textEmailAddress">
+
+
+    </EditText>
+
+    <EditText
+        android:textColorHint="@color/colorWhite"
+        android:id="@+id/login_password"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:padding="8dp"
+        android:hint="@string/login_pass_hint"
+        android:layout_below="@+id/login_email"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/edittext_backround"
+        android:inputType="textPassword"
+        >
+
+
+    </EditText>
+
+    <Button
+        android:id="@+id/login_buton"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/login_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/buton_backround"
+        android:text="@string/login_btn"
+        android:textColor="@color/colorWhite">
+
+    </Button>
+
+    <TextView
+        android:id="@+id/login_have_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/login_buton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/zaten_hesab_m_var"
+        android:textColor="@android:color/white"
+        android:textSize="15sp">
+
+    </TextView>
+
+
+</RelativeLayout>
