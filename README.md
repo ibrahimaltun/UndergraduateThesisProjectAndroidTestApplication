@@ -1,11 +1,11 @@
 
 ## Project Details
-Registering to the system with user email and password,
-Storing the email and password in the Firebase database,
-Automatically redirecting to the application login page,
-Logging into the application with the registered email and password,
-Completing tests for Depression, Stress, and Anxiety,
-Gathering test answers under a unique ID specific to the logged-in user.
+* Registering to the system with user email and password,
+* Storing the email and password in the Firebase database,
+* Automatically redirecting to the application login page,
+* Logging into the application with the registered email and password,
+* Completing tests for Depression, Stress, and Anxiety,
+* Gathering test answers under a unique ID specific to the logged-in user.
 
 
 # TR
